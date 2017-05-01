@@ -1,2 +1,3 @@
-# nem-hw-wallet
-In progress
+# NEM HW WALLET
+
+## WIP
